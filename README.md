@@ -1,7 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/BpXStGJy)
-
-
 # Iñigo García-Velasco
+![Image](image.jpeg)
 **eid: igarciavelas** | **github: inigogv**
 
 *pronouns: he/him* | *Class of 2026* | *Computer Science and Business Administration*
@@ -11,7 +9,7 @@
 1. Soccer 
 2. Hanging out with friends
 3. Padel
-4. Watching movies
+4. Cooking
 
 ---
 **Favorite movie**: [Interstellar](https://www.imdb.com/es-es/title/tt0816692/)
